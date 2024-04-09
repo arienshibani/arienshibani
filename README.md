@@ -2,7 +2,7 @@
 
 <img src="https://m5.paperblog.com/i/106/1068439/rock-your-food-with-the-guy-fieri-restaurant--T-zo9FUk.png"/>
 
-### stuff i work with 
+### i think this is cool 👇
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
